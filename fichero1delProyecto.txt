@@ -1,2 +1,3 @@
 Este es el fichero 1 del proyecto.
-Por ahora soy el único fichero del proyecto.
+Ya no soy el único fichero del proyecto, se ha creado el fichero con nombre:
+	"fichero2delProyecto.txt"
