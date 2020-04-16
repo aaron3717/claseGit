@@ -1,3 +1,8 @@
+# claseGit	
+
+Este repositorio ha sido creado siguiendo los siguientes pasos:	
+![visual](https://raw.githubusercontent.com/veketor/claseGit/master/visualGitClase.PNG)
+
 Pasos para práctica GIT:
 
 1) Creamos una carpeta donde alojar nuestro proyecto.
